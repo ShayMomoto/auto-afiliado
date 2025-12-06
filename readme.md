@@ -29,8 +29,3 @@ node server.js
 cd frontend
 npm install
 npm run dev
-
-
-⚠️ Nota de Segurança
-
-Este projeto utiliza chaves de API e credenciais de acesso. Nunca suba o arquivo .env para o repositório público.
